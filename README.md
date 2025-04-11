@@ -1,46 +1,24 @@
-<h2 align="left">Hi 👋! My name is 6vgc.</h2>
+# 💫 About Me:
+I'm currently learning programming. I'm 14 years old and just getting started. I'm new to this, but I'm excited to learn and improve step by step.
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/n2gQPEATBN) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ilyvnvlr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ilyvndc) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ilyvndc@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Seraph14yo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1289879713593954374/1360255719672254524/tenor.gif?ex=67fa745b&is=67f922db&hm=1c53864f57a661d34bfefd94d74458b93e0da00e13059702a2e6057c31fe31c6&"  />
+![](https://nirzak-streak-stats.vercel.app/?user=Seraph14yo&theme=dark&hide_border=false)<br/>
 
-###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Seraph14yo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <a href="https://discord.com/users/1214582823705649203" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/ilyvndc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="ilyvndc@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <a href="https://www.paypal.com/paypalme/shionamaus" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  </a>
-  <a href="https://guns.lol/vgc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Seraph14yo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/shionamaus) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
